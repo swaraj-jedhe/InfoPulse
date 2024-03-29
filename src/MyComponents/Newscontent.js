@@ -58,7 +58,7 @@ const Newscontent = (props) => {
   return (
     <>
       <h1 className="text-center bg-dark text-info" style={{ marginTop: "70px" }}>
-        NewsMonkey: Top Headlines in {capiTalize(selectedCategory)}
+        InfoPulse: Top Headlines in {capiTalize(selectedCategory)}
       </h1>
       {/*<div className="d-flex justify-content-center mt-3">
         <select
