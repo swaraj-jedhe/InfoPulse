@@ -4,32 +4,6 @@ export const dummyData = {
     "articles": [
         {
             "source": {
-                "id": "the-times-of-india",
-                "name": "The Times of India"
-            },
-            "author": "TIMESOFINDIA.COM",
-            "title": "Galaxy S24 series price leaked, here’s how much the upcoming Samsung flagships may cost - Times of India",
-            "description": "Samsung will launch the Galaxy S24 series phones at its Galaxy Unpacked event next year. The lineup will include three variants: Galaxy S24, S24+, and",
-            "url": "https://timesofindia.indiatimes.com/gadgets-news/galaxy-s24-series-price-leaked-heres-how-much-the-upcoming-samsung-flagships-may-cost/articleshow/106379075.cms",
-            "urlToImage": "https://static.toiimg.com/thumb/msid-106379075,width-1070,height-580,imgsize-10688,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-            "publishedAt": "2023-12-29T10:27:47Z",
-            "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Vaibhav Tiwari",
-            "title": "Sanjay Raut hints at tough seat-sharing stance, asks Cong to ‘start from zero’ - Hindustan Times",
-            "description": "Shiv Sena had contested the 2019 elections in alliance with the BJP and won 18 seats. They, however, split months later. | Latest News India",
-            "url": "https://www.hindustantimes.com/india-news/sanjay-raut-hints-at-tough-seat-sharing-stance-in-maharashtra-asks-cong-to-start-from-zero-101703843424481.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/29/1600x900/PTI12-16-2023-000264B-0_1703843758455_1703843799383.jpg",
-            "publishedAt": "2023-12-29T09:58:15Z",
-            "content": "Mumbai: In an indication that the Congress party will have a tough time bargaining for seats in the Maharashtra version of Opposition's INDIA bloc, Shiv Sena (UBT) leader Sanjay Raut said on Friday t… [+2763 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Deccan Herald"
             },
@@ -79,6 +53,32 @@ export const dummyData = {
             "urlToImage": "https://c.ndtvimg.com/2022-10/1m6ch38_russia-ukraine-war-kyiv-attacked-afp_625x300_17_October_22.jpg",
             "publishedAt": "2023-12-29T08:18:17Z",
             "content": "Kyiv mayor Vitali Klitschko said the capital's air defences were working intensively. (Representational)\r\nKyiv: A wave of Russian attacks killed at least 10 people and wounded dozens across Ukraine, … [+4377 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Galaxy S24 series price leaked, here’s how much the upcoming Samsung flagships may cost - Times of India",
+            "description": "Samsung will launch the Galaxy S24 series phones at its Galaxy Unpacked event next year. The lineup will include three variants: Galaxy S24, S24+, and",
+            "url": "https://timesofindia.indiatimes.com/gadgets-news/galaxy-s24-series-price-leaked-heres-how-much-the-upcoming-samsung-flagships-may-cost/articleshow/106379075.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-106379075,width-1070,height-580,imgsize-10688,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-12-29T10:27:47Z",
+            "content": "5G smartphones with 10GB or more RAM under Rs 25,000"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Vaibhav Tiwari",
+            "title": "Sanjay Raut hints at tough seat-sharing stance, asks Cong to ‘start from zero’ - Hindustan Times",
+            "description": "Shiv Sena had contested the 2019 elections in alliance with the BJP and won 18 seats. They, however, split months later. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/sanjay-raut-hints-at-tough-seat-sharing-stance-in-maharashtra-asks-cong-to-start-from-zero-101703843424481.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/29/1600x900/PTI12-16-2023-000264B-0_1703843758455_1703843799383.jpg",
+            "publishedAt": "2023-12-29T09:58:15Z",
+            "content": "Mumbai: In an indication that the Congress party will have a tough time bargaining for seats in the Maharashtra version of Opposition's INDIA bloc, Shiv Sena (UBT) leader Sanjay Raut said on Friday t… [+2763 chars]"
         },
         {
             "source": {
