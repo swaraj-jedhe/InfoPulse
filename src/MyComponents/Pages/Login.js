@@ -2,6 +2,7 @@ import React, { useState, useContext } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '../AuthContext';
+import Bot from "../Bot"
 
 const SERVER_URI = "https://infopulsebackend0001.azurewebsites.net"
 
@@ -36,6 +37,7 @@ const Login = () => {
 
   return (
     <div className="container mt-5">
+      <Bot />
       <div className="row justify-content-center mt-5">
         <div className="col-md-6">
           <div className="card">

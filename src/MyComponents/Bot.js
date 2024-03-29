@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from "react";
-import download from "../Image/download.png"
+import download from "./bot.jpeg"
 
 const Bot = () => {
   const chatbotRef = useRef(null);
@@ -42,17 +42,7 @@ const Bot = () => {
         />
       </div>
       {isOpen && (
-        <iframe
-          src="https://webchat.botframework.com/embed/testingbotservices1-bot?s=bSCQ7ZvjX6Q.QZUo_JlISe7aDw-1GuPK6TgFqUCjtL8ko92fEQaq_x4&style=dark"
-          style={{
-            border: "none",
-            display: "block",
-            width: "100%",
-            minHeight: "300px",
-            border: "2px solid #ddd",
-            borderRadius: "0.5rem"
-          }}
-        ></iframe>
+        <iframe src='https://webchat.botframework.com/embed/testingbotservice11-bot?s=bSCQ7ZvjX6Q.QZUo_JlISe7aDw-1GuPK6TgFqUCjtL8ko92fEQaq_x4'  style={{ minWidth: "400px", width: "100%", minHeight: "300px"}}></iframe>
       )}
     </div>
   );

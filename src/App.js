@@ -23,7 +23,7 @@ const App = (props) => {
             <Route path='/login' element={<Login />} />
             <Route path='/signin' element={<Signin />} />
             
-            <Route path='/' element={<Newscontent pageSize={6} />} />
+            <Route exact path='/newscontent' element={<Newscontent pageSize={6} />} />
             <Route exact path="/business" element={<Newscontent  setProgress = {setProgress} key="business" pageSize={pageSize} category="business" country="in"/>}></Route>
             <Route exact path="/entertainment" element={<Newscontent  setProgress = {setProgress} key="entertainment" pageSize={pageSize} category="entertainment" country="in"/>}></Route>
             <Route exact path="/general" element={<Newscontent  setProgress = {setProgress} key="general" pageSize={pageSize} category="general" country="in"/>}></Route>

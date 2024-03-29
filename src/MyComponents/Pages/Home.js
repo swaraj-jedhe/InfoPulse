@@ -1,6 +1,7 @@
 import React, { useContext } from 'react';
 import { AuthContext } from '../AuthContext';
 import { Link } from 'react-router-dom';
+import Bot from "../Bot"
 import './Home.css'; // Import your CSS file for Home.js
 
 const Home = () => {
@@ -8,6 +9,7 @@ const Home = () => {
 
   return (
     <div className="home-container">
+      <Bot />
       <h1>Welcome to InfoPulse App</h1>
       <div className="home-content">
         {isLoggedIn ? (

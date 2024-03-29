@@ -2,6 +2,7 @@ import React, { useState, useContext } from 'react';
 import axios from 'axios';
 import { Link, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../AuthContext'; 
+import Bot from "../Bot"
 
 const SERVER_URI = "https://infopulsebackend0001.azurewebsites.net"
 
@@ -41,6 +42,7 @@ const Signin = () => {
 
   return (
     <div className="container mt-5">
+      <Bot />
       <h2>Sign In</h2>
       <form onSubmit={handleRegister}>
         <div className="mb-3">
