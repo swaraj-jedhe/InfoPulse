@@ -16,8 +16,8 @@ const Home = () => {
           <div className="home-options">
             <p>Please select an option:</p>
             <div className="button-group">
-              <Link to='/login' className="button">Login</Link>
-              <Link to='/signin' className="button">Sign In</Link>
+              <Link to='/login' className="button btn-success">Login</Link>
+              <Link to='/signin' className="button btn-success">Sign In</Link>
             </div>
           </div>
         )}
