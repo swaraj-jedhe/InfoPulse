@@ -8,7 +8,7 @@ const Home = () => {
 
   return (
     <div className="home-container">
-      <h1>Welcome to News App</h1>
+      <h1>Welcome to InfoPulse App</h1>
       <div className="home-content">
         {isLoggedIn ? (
           <p>You are logged in. View news content <Link to='/'>here</Link></p>
