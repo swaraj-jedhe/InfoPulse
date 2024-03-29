@@ -1,7 +1,7 @@
 import React, { createContext, useState  } from 'react';
 import axios from 'axios';
 
-const SERVER_URI = "https://news-backend000.azurewebsites.net"
+const SERVER_URI = "https://infopulsebackend0001.azurewebsites.net"
 
 export const AuthContext = createContext();
 

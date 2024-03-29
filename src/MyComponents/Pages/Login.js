@@ -3,7 +3,7 @@ import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '../AuthContext';
 
-const SERVER_URI = "https://news-backend000.azurewebsites.net"
+const SERVER_URI = "https://infopulsebackend0001.azurewebsites.net"
 
 const Login = () => {
   const [email, setEmail] = useState('');
