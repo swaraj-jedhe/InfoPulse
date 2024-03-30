@@ -15,7 +15,7 @@ app.use(express.urlencoded({ extended: true }));
 console.log("The Process : ", process.env)
 
 // MongoDB Connection
-mongoose.connect(process.env.MONGO_URI || "mongodb://infopulsedb:Nr077ryrECjtAAOfZ6XWSaDpqlO9oVemUsvhxCjAYBUy6mp26ScboQDoaTXJiOEShVXaMsSFncCOACDbv27w4A==@infopulsedb.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@infopulsedb@", {
+mongoose.connect(process.env.MONGO_URI || "mongodb://infopulsedb00004:mAu8ZUVFbOrR2EeM1kFOD3AliuiSUQktysc0ANoGWknuhm2S338JotTy0EfSCw5MGVh4arUdDICpACDblEzeSw==@infopulsedb00004.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@infopulsedb00004@", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
