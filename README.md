@@ -9,7 +9,7 @@ InfoPulse: Revolutionizing News Consumption with AI Integration
 ## Project Details:
 Project Details
 Project Demo URL : https://happy-ground-08e89a510.5.azurestaticapps.net/    
-Demo Video URL : https://1drv.ms/v/s!AkGV0KquQtypayCFQjZx8k036Gs?e=jIHFsu  
+Demo Video URL :https://1drv.ms/v/s!Ajc74ImmMPG3cspBXVzGc0jDxP8?e=OVN8Yo   
 Github Repository URL : https://github.com/swaraj-jedhe/InfoPulse/  
 Industry : Lifestyle and Technology
 ## Azure Services Used
@@ -101,13 +101,16 @@ Here I am attaching the final working website's screenshot for the reference.
 
 ## Resource Visualizer  
 
+![bottest (1)](https://github.com/swaraj-jedhe/laptop_price_predictor1/assets/145422511/7c5b04e2-47cc-446b-8a92-2c1fbd0b23a8)
 
-![Untitled Diagram](https://github.com/swaraj-jedhe/laptop_price_predictor1/assets/145422511/45514379-2dc4-4eca-8c53-10a5e66f3cfc)
+
+![infopulsefrontend_group](https://github.com/swaraj-jedhe/laptop_price_predictor1/assets/145422511/83f7768d-1f2f-4d36-94bb-c719e40a0815)
+
 
 
 ## Final Project Statement
 
 
-InfoPulse is a pioneering solution, leveraging Azure's powerful cloud and AI services to create an interactive, secure, and user-centric news experience. This project not only addresses the challenges in contemporary news consumption but also sets a new standard for how news can be interactively accessed and personalized in the digital era. News Monkey stands as a testament to the innovative use of Azure technologies in transforming media consumption experiences.
+InfoPulse is a pioneering solution, leveraging Azure's powerful cloud and AI services to create an interactive, secure, and user-centric news experience. This project not only addresses the challenges in contemporary news consumption but also sets a new standard for how news can be interactively accessed and personalized in the digital era.InfoPulse stands as a testament to the innovative use of Azure technologies in transforming media consumption experiences.
 
 __InfoPulse: Revolutionizing News Consumption with AI Integration__
