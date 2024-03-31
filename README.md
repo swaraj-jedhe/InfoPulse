@@ -43,7 +43,7 @@ __Azure Bot Service using Language & Search :__
 The InfoPulse project leverages Azure Bot Service integrated with Azure Cognitive Services for language understanding and search capabilities. This AI-driven approach allows the News Monkey chatbot to understand and respond to user queries effectively, enhancing user engagement and support.
 
 
-<img width="960" alt="bottest" src="https://github.com/swaraj-jedhe/InfoPulse/assets/145422511/4fd4e18c-e2e8-431a-8143-86db5fdc2142">
+
 
 ## Other Azure Technologies / Services
 
