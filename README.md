@@ -40,14 +40,14 @@ Powers both the backend and frontend of the InfoPulse website, providing a seaml
 
 __Azure Bot Service using Language & Search :__
 
-The InfoPulse project leverages Azure Bot Service integrated with Azure Cognitive Services for language understanding and search capabilities. This AI-driven approach allows the News Monkey chatbot to understand and respond to user queries effectively, enhancing user engagement and support.
+The InfoPulse project leverages Azure Bot Service integrated with Azure Cognitive Services for language understanding and search capabilities. This AI-driven approach allows the InfoPulse chatbot to understand and respond to user queries effectively, enhancing user engagement and support.
 
 
 
 
 ## Other Azure Technologies / Services
 
-The integration of Azure's robust security features ensures data protection and compliance, providing users with a secure platform for accessing and interacting with the News Monkey portal.
+The integration of Azure's robust security features ensures data protection and compliance, providing users with a secure platform for accessing and interacting with the InfoPulse portal.
 
 __Azure Monitor :__
 
@@ -89,7 +89,15 @@ Utilizing Azure Bot Service and AI for language and search, InfoPulse's chatbot 
 __Description :__
 Here I am attaching the final working website's screenshot for the reference.
 
-<img width="960" alt="webapp" src="https://github.com/swaraj-jedhe/InfoPulse/assets/145422511/8a237c54-f5c7-4658-809e-8c3422ea445c">
+<img width="960" alt="loginpageinfo" src="https://github.com/swaraj-jedhe/laptop_price_predictor1/assets/145422511/fc90c4ab-25d5-4697-98ff-19bab06b3239">
+
+<img width="960" alt="chatbot" src="https://github.com/swaraj-jedhe/laptop_price_predictor1/assets/145422511/08f7fb47-e367-4606-8238-c4341ca8c358">
+
+<img width="959" alt="pageweb" src="https://github.com/swaraj-jedhe/laptop_price_predictor1/assets/145422511/f47bba5e-8591-4dcb-9094-73ddd91ab746">
+
+
+
+
 
 ## Resource Visualizer  
 
